@@ -1,0 +1,30 @@
+{
+    "gamePlaySave": [
+        {
+            "players": {
+                "multiplayer": true,
+                "phase": 11,
+                "player1Name": "",
+                "player2Name": ""
+            }
+        },
+        {
+            "players1": {
+                "hp": 355.0,
+                "player1PositionX": 1320.0,
+                "player1PositionY": 740.0999755859375,
+                "score": 0
+            }
+        },
+        {
+            "players2": {
+                "hp": 70.0,
+                "player2PositionX": 1576.0,
+                "player2PositionY": 648.0
+            }
+        },
+        {
+            "enemies": []
+        }
+    ]
+}
